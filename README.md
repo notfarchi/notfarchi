@@ -7,9 +7,10 @@ Sou um estudante de Sistemas de Informação, atualmente no meu primeiro períod
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaovictorfarchi/)
 [![Gmail](https://img.shields.io/badge/Gmail-302e2e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaovictorfarchi@gmail.com)
 
+
 ## Mais sobre mim
 * 🤖 Desenvolvedor de software com foco em Back-End.
-* 🎓 Cursando o 1º período de Sistemas de Informação na PUC Minas.
+* 🎓 Cursando o 1º período de Sistemas de Informação na PUC Minas, tendo cursado, anteriormente, 3 períodos na Universidade Federal de Uberlândia.
 * 💻 Amante de computadores desde meus 5 anos de idade.
 
 ## Linguagens
