@@ -5,7 +5,7 @@ Sou um estudante de Sistemas de Informação, atualmente no meu primeiro períod
 ## Me encontre aqui
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaovictorfarchi/)
-[![Gmail](https://img.shields.io/badge/Gmail-302e2e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jv.farchi@icloud.com)
+[![Mail](https://img.shields.io/badge/Mail-302e2e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jv.farchi@icloud.com)
 
 
 ## Mais sobre mim
