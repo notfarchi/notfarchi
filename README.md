@@ -5,7 +5,7 @@ Sou um estudante de Sistemas de Informação, atualmente no meu primeiro períod
 ## Me encontre aqui
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaovictorfarchi/)
-[![Gmail](https://img.shields.io/badge/Gmail-302e2e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaovictorfarchi@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-302e2e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jv.farchi@icloud.com)
 
 
 ## Mais sobre mim
@@ -32,5 +32,6 @@ Sou um estudante de Sistemas de Informação, atualmente no meu primeiro períod
 ![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-1261FE?style=for-the-badge&logo=IBM%20Cloud&logoColor=white)
 
 ## Próximos aprendizados
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
