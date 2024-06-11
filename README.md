@@ -1,6 +1,6 @@
 # Olá, eu sou o João Victor Farchi! 👋
 
-Sou um estudante de Sistemas de Informação, atualmente no meu primeiro período. Tenho paixão pelo desenvolvimento de projetos Back-End, onde utilizo a linguagem de programação Java juntamente com Spring Boot.
+Sou um estudante de Sistemas de Informação, atualmente no meu primeiro período. Tenho paixão pelo desenvolvimento de projetos Back-End.
 
 ## Me encontre aqui
 
