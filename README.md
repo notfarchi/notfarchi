@@ -11,7 +11,7 @@ Sou um estudante de Sistemas de Informação, atualmente no meu segundo período
 
 ## Mais sobre mim
 * 🤖 Desenvolvedor de software com foco em Back-End.
-* 🎓 Cursando o 1º período de Sistemas de Informação na PUC Minas, tendo cursado, anteriormente, 3 períodos na Universidade Federal de Uberlândia.
+* 🎓 Cursando o 2º período de Sistemas de Informação na PUC Minas, tendo cursado, anteriormente, 3 períodos na Universidade Federal de Uberlândia.
 
 ## Linguagens de Programação
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
