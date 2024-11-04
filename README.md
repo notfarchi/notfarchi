@@ -1,6 +1,6 @@
 # Olá, eu sou o João Victor Farchi! 👋
 
-Sou um estudante de Sistemas de Informação, atualmente no meu segundo período. Tenho paixão pelo desenvolvimento de projetos Back-End.
+Sou um estudante de Sistemas de Informação, atualmente no meu segundo período. Tenho paixão pelo desenvolvimento de projetos BackEnd.
 
 ## Me encontre aqui
 
@@ -10,7 +10,7 @@ Sou um estudante de Sistemas de Informação, atualmente no meu segundo período
 
 
 ## Mais sobre mim
-* 🤖 Desenvolvedor de software com foco em Back-End.
+* 🤖 Desenvolvedor de software com foco em BackEnd.
 * 🎓 Cursando o 2º período de Sistemas de Informação na PUC Minas, tendo cursado, anteriormente, 3 períodos na Universidade Federal de Uberlândia.
 
 ## Linguagens de Programação
@@ -19,6 +19,7 @@ Sou um estudante de Sistemas de Informação, atualmente no meu segundo período
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
 
 ## Linguagens de Marcação e Estilo
@@ -31,6 +32,7 @@ Sou um estudante de Sistemas de Informação, atualmente no meu segundo período
 
 ## Banco de Dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Ferramentas 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -41,3 +43,8 @@ Sou um estudante de Sistemas de Informação, atualmente no meu segundo período
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white)
 ![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-1261FE?style=for-the-badge&logo=IBM%20Cloud&logoColor=white)
+
+## Sistemas Operacionais
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
