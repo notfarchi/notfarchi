@@ -13,7 +13,7 @@
     <td valign="top">
       <p>
         <b>about me:</b><br>
-        tech enthusiast ➧ 21y ➧ he/him
+        tech enthusiast ➧ 22y ➧ he/him
         <br><br>
         I'm a programmer focusing on backend development, currently in my second year of information systems. Today, I work as an sre, dealing with infrastructure and automation technologies, but I enjoy anything related to programming.
         <br><br>
