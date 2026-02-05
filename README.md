@@ -8,17 +8,17 @@
         />
       </a>
       <br/>
-      <img src="https://i.imgur.com/JQqw2EX.gif" width="350" alt="Coding GIF"/>
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDdvNzAzc3ZlMWxpYjFsYW53Znl5cDh6ZWtsNWFoZzF1aWQ2Yjl4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rGxJWjwGsPkCk/giphy.gif" width="350" alt="Coding GIF"/>
     </td>
     <td valign="top">
       <p>
         <b>about me:</b><br>
-        tech enthusiast ➧ 22y ➧ he/him
+        22y | he/him
         <br><br>
-        I'm a programmer focusing on backend development, currently in my second year of information systems. Today, I work as an sre, dealing with infrastructure and automation technologies, but I enjoy anything related to programming.
+        programmer focusing on backend development, currently in my third year of information systems. working as sre, dealing with infrastructure and automation technologies, but I enjoy anything related to backend programming.
         <br><br>
         <b>langs && frameworks:</b><br>
-        ▸ typescript, python, node, java, aws.
+        ▸ typescript, node, python, aws, terraform.
         <br><br>
         <img 
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=notfarchi&layout=compact&theme=codeSTACKr" 
